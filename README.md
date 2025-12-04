@@ -5,6 +5,8 @@
   <img src="Readme_img/placementor_logo.png" alt="Demo" width="400" />
 </p>
 
+## Deployed Link: [link](https://place-mentor-murf-ai.vercel.app/)
+
 ## 📚 Table of Contents  
 
 - [Features](#features)
@@ -130,7 +132,7 @@ This made the project’s shift to **voice-first AI** not just possible, but tru
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tejasgadge2504/PlaceMentor
+   git clone https://github.com/tejasgadge2504/place-mentor_MurfAI
    ```
 
 2. Navigate to the project directory:
